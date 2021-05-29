@@ -1,0 +1,19 @@
+.login-signup {
+    text-align: right;
+    font-family: "Lucia Bright", Georgia, serif;
+    padding: 20px 20px 0px 0px;
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: rgb(177, 0, 0);
+}
+
+a:hover {
+    background: rgb(255, 168, 168);
+}

@@ -1,0 +1,97 @@
+.login-header>div {
+    font-family: "Lucia Bright", Georgia, serif;
+    color: rgb(177, 0, 0);
+    font-size: 30px;
+    text-align: center;
+    text-shadow: -1px 2px 3px #999
+}
+
+.row>div,
+.col>div,
+.well {
+
+    border-left: 3px solid rgb(177, 0, 0);
+    border-bottom: 3px solid rgb(177, 0, 0);
+    border-top: 1px solid rgb(177, 0, 0);
+    border-right: 1px solid rgb(177, 0, 0);
+    align-content: center;
+    box-shadow: -3px 4px 6px #999;
+
+
+}
+
+.tituloParrafo {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(117, 1, 1);
+    text-align: center;
+
+}
+
+.texto,
+.text-center {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11;
+    text-align: justify;
+}
+
+
+
+.badge {
+
+    bottom: 25px;
+    padding: 5px 10px;
+    opacity: 0.7;
+    font-size: 9px;
+}
+
+.panel-danger {
+    height: 300px;
+}
+
+.col-center {
+    float: none;
+    margin: 0 auto;
+}
+
+/* .login{
+    padding: 50px 20px 80px px;
+} */
+
+h3 {
+    text-align: center;
+    font-family: "Lucia Bright", Georgia, serif;
+    color: rgb(177, 0, 0);
+}
+
+.btn-danger {
+    margin-bottom: 1.25rem;
+    color: #fff;
+    background-color: rgb(117, 1, 1);
+    border-color: rgb(117, 1, 1);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.card-footer {
+    text-align: center;
+    font-family: "Lucia Bright", Georgia, serif;
+    color: rgb(177, 0, 0);
+}
+
+.loginup {
+    text-align: center;
+    font-family: "Lucia Bright", Georgia, serif;
+    padding: 20px 20px 0px 0px;
+    font-size: 15px;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: rgb(177, 0, 0);
+}
+
+a:hover {
+    background: rgb(255, 168, 168);
+}

@@ -1,0 +1,30 @@
+.container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.badge{
+    position: relative;
+    bottom:25px;
+    padding:5px 10px;
+    opacity:0.7;
+    font-size: 9px;
+    
+}
+.panel-danger {
+    height: 180px !important;
+}
+
+.panel-danger>.panel-heading {
+    color: #fff;
+    background-color: rgb(117, 1, 1);
+    border-color: #ebccd1;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.affix{
+    top: 0;
+    width: calc(100% - 30px) !important;
+    z-index: 10 !important;
+}

@@ -1,0 +1,29 @@
+.navbar-default .navbar-nav>li>a {
+    color: rgb(117, 1, 1);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+
+.dropdown-menu>li>a {
+    color: rgb(117, 1, 1);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    box-sizing: border-box;
+
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: rgb(124, 124, 124);
+}
+
+.navbar-default {
+    background-color: #f3f2f2;
+    border-color: rgb(177, 0, 0);
+}
+
+.nav-link.active {
+    color: #f3f2f2;
+    background-color: rgb(177, 0, 0);
+}

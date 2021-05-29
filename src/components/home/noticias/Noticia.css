@@ -1,0 +1,45 @@
+
+.row > div,.col > div, .well {
+    
+    border-left:3px solid rgb(177, 0, 0);
+    border-bottom:3px solid rgb(177, 0, 0) ;
+    border-top: 1px solid rgb(177, 0, 0);
+    border-right: 1px solid rgb(177, 0, 0);
+    align-content: center;
+    box-shadow: -3px 4px 6px #999;
+
+}
+
+.tituloParrafo{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(117, 1, 1);
+    text-align: center;
+
+}
+.texto,.text-center{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11;
+    text-align: justify;
+}
+
+
+div.img{
+    display:table;
+  }
+  div.img img{
+   margin:0;
+   padding:0;
+  }
+
+
+.badge{
+    position: relative;
+    bottom:25px;
+    padding:5px 10px;
+    opacity:0.7;
+    font-size: 9px;
+}
+
+.panel-danger{
+    height: 300px;
+}
