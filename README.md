@@ -1,7 +1,7 @@
 ## **Heraldo App** ##
 
 **Sobre el proyecto**
-Front-end en react del Heraldo (login de usuarios y publicacion de noticias).
+> Front-end en react del Heraldo (login de usuarios y publicacion de noticias).
 > Esta APP esta desarrollada en React usando react-router-dom, axios y sweetalert2.
 
 **Rutas principales**
